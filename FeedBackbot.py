@@ -17,4 +17,4 @@ async def sorgu(ctx, member, *, msg):
     await ctx.send("Sorğunuz qəbul edildi.")
 
 
-Bot.run('ODY4MzU4MTY3ODIwNjQ4NDkw.YPufkA.MeNO694glBiQjNUUYzxdsvTYBtI')
+Bot.run('ODg5MDMwMDE5Mzk2MDI2NDI4.YUbTug.LzzBTW_GUzBhm2UIXjpT7eLOt2w')
